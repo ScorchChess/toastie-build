@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.a67a6444.chunk.css",
+    "main.css": "./static/css/main.704ffffe.chunk.css",
     "main.js": "./static/js/main.c87da811.chunk.js",
     "main.js.map": "./static/js/main.c87da811.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.78a9d7b6.js",
@@ -8,9 +8,9 @@
     "static/js/2.898fe11a.chunk.js": "./static/js/2.898fe11a.chunk.js",
     "static/js/2.898fe11a.chunk.js.map": "./static/js/2.898fe11a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.cfacb765f64161a1626e1dfb2e83558e.js": "./precache-manifest.cfacb765f64161a1626e1dfb2e83558e.js",
+    "precache-manifest.ca9de82d4849ad928f3dacb2b4cd0162.js": "./precache-manifest.ca9de82d4849ad928f3dacb2b4cd0162.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.a67a6444.chunk.css.map": "./static/css/main.a67a6444.chunk.css.map",
+    "static/css/main.704ffffe.chunk.css.map": "./static/css/main.704ffffe.chunk.css.map",
     "static/js/2.898fe11a.chunk.js.LICENSE.txt": "./static/js/2.898fe11a.chunk.js.LICENSE.txt",
     "static/media/chessCom.svg": "./static/media/chessCom.228db28e.svg",
     "static/media/lichess.svg": "./static/media/lichess.9ff6e305.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.78a9d7b6.js",
     "static/js/2.898fe11a.chunk.js",
-    "static/css/main.a67a6444.chunk.css",
+    "static/css/main.704ffffe.chunk.css",
     "static/js/main.c87da811.chunk.js"
   ]
 }
